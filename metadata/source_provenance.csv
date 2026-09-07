@@ -1,0 +1,1 @@
+variable,dataset_name,provider,dataset_id,source_url,api_endpoint,api_query,version,frequency,start_year,end_year,measure,unit,insurance_type,insurer_type,retrieval_date,license_or_terms,raw_filename,sha256,archive_reference,notes
